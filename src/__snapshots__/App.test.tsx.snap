@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the App 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <form>
+      <label
+        for="identifiant"
+      >
+        Identifiant
+      </label>
+      <input
+        id="identifiant"
+        name="identifiant"
+        type="text"
+        value=""
+      />
+      <br />
+      <label
+        for="password"
+      >
+        Password
+      </label>
+      <input
+        id="password"
+        name="password"
+        type="password"
+        value=""
+      />
+      <input
+        type="submit"
+        value="Submit"
+      />
+    </form>
+  </div>
+</DocumentFragment>
+`;
